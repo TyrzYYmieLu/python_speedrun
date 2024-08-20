@@ -1,0 +1,1 @@
+print("wtałeś już to dobrze... do roboty")
