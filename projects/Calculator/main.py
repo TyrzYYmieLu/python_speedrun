@@ -1,7 +1,7 @@
 def main():
     # make the cursor blink
     user_input = input(">> ")
-    #print(is_valid(user_input))
+
 
     if is_valid(user_input):
         number, operator = tokenize(user_input)
