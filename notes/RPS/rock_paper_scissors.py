@@ -2,6 +2,7 @@
 import random
 
 options = ("rock", "paper", "scissors")
+options = {0: "rock", 1: "paper", 2: "scissors"}
 
 pc = random.choice(options)
 
